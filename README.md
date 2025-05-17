@@ -10,7 +10,8 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-<p><strong>Passionate problem solver and full-stack developer</strong> specializing in <strong>Node.js, Express.js, MongoDB, and React.js</strong>. I build <strong>fast, scalable, and robust</strong> web applications delivering <strong>high performance</strong> and seamless user experiences. Committed to <strong>clean code, best practices</strong>, and <strong>continuous learning</strong> to create innovative software solutions.</p>
+I am a <strong>passionate problem solver and full-stack developer</strong> specializing in <strong>Node.js, Express.js, MongoDB, and React.js</strong>. I build <strong>fast, scalable, and robust</strong> web applications delivering <strong>high performance</strong> and seamless user experiences. Committed to <strong>clean code, best practices</strong>, and <strong>continuous learning</strong> to create innovative software solutions.</p>
+
 
 
 ---
