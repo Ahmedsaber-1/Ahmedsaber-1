@@ -4,14 +4,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
-<h3 align="center">Software Developer | React.js | Node.js </h3>
+<h3 align="center">Frontend Developer | React.js | Next.js </h3>
 
 ---
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-  I am a <strong>passionate problem solver</strong> with experience in <strong>full-stack development</strong>, specializing in <strong>Node.js, Express.js, MongoDB, and React.js</strong>. I focus on building <strong>fast, scalable, and robust</strong> web applications that deliver <strong>high performance</strong> and a <strong>seamless user experience</strong>. Committed to <strong>best practices</strong> and <strong>continuous learning</strong>, I strive to improve my skills and contribute to <strong>innovative software solutions</strong>.
+I am a <strong>passionate problem solver</strong> with experience in <strong>frontend development</strong>, specializing in <strong>React.js</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>. I focus on building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications that provide <strong>high performance</strong> and a <strong>great user experience</strong>. Committed to <strong>best practices</strong> and <strong>continuous learning</strong>, I strive to improve my skills and contribute to <strong>innovative solutions</strong>.
+
 </p>
+
 
 
 
