@@ -10,7 +10,7 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-<strong>Problem solver</strong> with a strong passion for <strong>web development</strong>, experienced in the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js) and <strong>Next.js</strong>. I enjoy building <strong>responsive</strong>, <strong>performant</strong>, and <strong>scalable</strong> web applications that work smoothly across all devices. Skilled in <strong>JavaScript</strong> and <strong>TypeScript</strong>, I focus on writing <strong>clean</strong>, <strong>efficient</strong>, and <strong>maintainable</strong> code. I'm committed to <strong>best practices</strong> and <strong>continuous learning</strong>, always aiming to deliver <strong>high-quality</strong> and <strong>user-friendly</strong> solutions.
+I’m a passionate <strong>Problem solver</strong> with a strong passion for <strong>web development</strong>, experienced in the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js) and <strong>Next.js</strong>. I enjoy building <strong>responsive</strong>, <strong>performant</strong>, and <strong>scalable</strong> web applications that work smoothly across all devices. Skilled in <strong>JavaScript</strong> and <strong>TypeScript</strong>, I focus on writing <strong>clean</strong>, <strong>efficient</strong>, and <strong>maintainable</strong> code. I'm committed to <strong>best practices</strong> and <strong>continuous learning</strong>, always aiming to deliver <strong>high-quality</strong> and <strong>user-friendly</strong> solutions.
 </p>
 
 
