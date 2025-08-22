@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js </h3>
+<h3 align="center">Frontend Developer </h3>
 
 ---
 
@@ -42,10 +42,6 @@ I am a <strong>passionate problem solver</strong> with experience in <strong>fro
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/> 
-  </a> 
-          <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="100" height="100"/>
-</a>
 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="100" height="100"/> 
