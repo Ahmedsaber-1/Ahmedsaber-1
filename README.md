@@ -1,8 +1,3 @@
-          
-
-
-
-
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
 <h3 align="center">Frontend Developer </h3>
 
@@ -10,13 +5,8 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-I am a <strong>passionate problem solver</strong> with experience in <strong>frontend development</strong>, specializing in <strong>React.js</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>. I focus on building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications that provide <strong>high performance</strong> and a <strong>great user experience</strong>. Committed to <strong>best practices</strong> and <strong>continuous learning</strong>, I strive to improve my skills and contribute to <strong>innovative solutions</strong>.
-
+I am a <strong>passionate problem solver</strong> with experience in <strong>frontend development</strong>, specializing in <strong>Next.js</strong>, <strong>React.js</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>. I focus on building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications that provide <strong>high performance</strong> and a <strong>great user experience</strong>. Committed to <strong>best practices</strong> and <strong>continuous learning</strong>, I strive to improve my skills and contribute to <strong>innovative solutions</strong>.
 </p>
-
-
-
-
 
 ---
 
@@ -42,7 +32,11 @@ I am a <strong>passionate problem solver</strong> with experience in <strong>fro
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="100" height="100"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="100" height="100"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -82,4 +76,3 @@ I am a <strong>passionate problem solver</strong> with experience in <strong>fro
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="50" />
   </a>
 </p>
-
