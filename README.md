@@ -5,8 +5,11 @@
 
 <h2 align="left">About Me:</h2>
 <p align="left">
-I am a <strong>passionate problem solver</strong> with experience in <strong>frontend development</strong>, specializing in <strong>Next.js</strong>, <strong>React.js</strong>, <strong>JavaScript</strong>, and <strong>TypeScript</strong>. I focus on building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications that provide <strong>high performance</strong> and a <strong>great user experience</strong>. Committed to <strong>best practices</strong> and <strong>continuous learning</strong>, I strive to improve my skills and contribute to <strong>innovative solutions</strong>.
-</p>
+I am a passionate problem solver and Full-Stack Web Developer with hands-on experience building fast, scalable, and accessible web applications using React.js, Next.js, Node.js, and WordPress (PHP & MySQL). I focus on writing clean, maintainable code while following best practices in performance and security.
+
+Alongside development, I’m a Web Security Enthusiast, actively exploring penetration testing, security best practices, and real-world vulnerabilities to build safer and more reliable applications.
+
+I enjoy solving challenging problems, continuously learning new technologies, and delivering impactful, innovative solutions.
 
 ---
 
