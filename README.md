@@ -6,16 +6,17 @@
 <h2 align="left">About Me:</h2>
 <p align="left">
 <p>
-  I’m a <strong>passionate Full-Stack Web Developer</strong> with hands-on experience building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications using <strong>Node.js</strong>, <strong>React.js</strong> and <strong>WordPress (PHP & MySQL)</strong>. I focus on writing <strong>clean, maintainable code</strong> while following <strong>best practices</strong> in <strong>performance</strong> and <strong>security</strong>.
+  I’m a <strong>passionate Full-Stack Web Developer</strong> with hands-on experience building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications using <strong>PHP</strong>, <strong>MySQL</strong>, <strong>WordPress</strong>, and <strong>React.js</strong>. I focus on writing <strong>clean, maintainable code</strong> while following <strong>best practices</strong> in <strong>performance</strong> and <strong>security</strong>.
 </p>
 
 <p>
-  Alongside development, I’m a <strong>Web Security Enthusiast</strong>, actively exploring <strong>penetration testing</strong>, <strong>security best practices</strong>, and <strong>real-world vulnerabilities</strong> to build safer, more reliable applications.
+  Alongside development, I’m a <strong>Web Security Enthusiast</strong>, actively exploring <strong>penetration testing</strong>, <strong>security best practices</strong>, and <strong>real-world vulnerabilities</strong> to build <strong>safer</strong>, more <strong>reliable</strong> applications.
 </p>
 
 <p>
   I enjoy <strong>solving challenging problems</strong>, <strong>learning new technologies</strong>, and delivering <strong>impactful solutions</strong> for clients and users.
 </p>
+
 ---
 
 <h2 align="left">⚙️ Skills and Tools:</h2>
