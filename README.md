@@ -10,10 +10,6 @@
 </p>
 
 <p>
-  Alongside development, I’m a <strong>Web Security Enthusiast</strong>, actively exploring <strong>penetration testing</strong>, <strong>security best practices</strong>, and <strong>real-world vulnerabilities</strong> to build <strong>safer</strong>, more <strong>reliable</strong> applications.
-</p>
-
-<p>
   I enjoy <strong>solving challenging problems</strong>, <strong>learning new technologies</strong>, and delivering <strong>impactful solutions</strong> for clients and users.
 </p>
 
