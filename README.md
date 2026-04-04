@@ -47,9 +47,6 @@
 <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="100" height="100"/>
 </a>
-<a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/liquid.svg" alt="Liquid" width="100" height="100"/>
-</a>
 </p>
 
 ---
