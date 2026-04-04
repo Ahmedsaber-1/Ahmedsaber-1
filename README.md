@@ -1,32 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
-<h3 align="center">Shopify Developer | Liquid Specialist</h3>
+<h3 align="center">Full-Stack Web Developer </h3>
 
 ---
 
 <h2 align="left">About Me:</h2>
 <p align="left">
 <p>
-  I’m a <strong>passionate Shopify Developer</strong> specializing in building <strong>high-converting</strong>, <strong>fast</strong>, and <strong>scalable</strong> e-commerce stores using <strong>Shopify</strong> and <strong>Liquid</strong>. I focus on creating <strong>conversion-focused user experiences</strong> that help businesses grow and increase their revenue.
+  I’m a <strong>passionate Full-Stack Web Developer</strong> with hands-on experience building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications using <strong>Liquid</strong>, <strong>MySQL</strong>, <strong>Shopify</strong>, and <strong>React.js</strong>. I focus on writing <strong>clean, maintainable code</strong> while following <strong>best practices</strong> in <strong>performance</strong> and <strong>security</strong>.
 </p>
 
 <p>
-  With a strong background in <strong>frontend development</strong>, I build <strong>clean, maintainable, and high-performance</strong> interfaces using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and modern tools like <strong>React.js</strong> and <strong>Tailwind CSS</strong>.
-</p>
-
-<p>
-  I enjoy <strong>optimizing e-commerce experiences</strong>, improving <strong>store performance</strong>, and turning ideas into <strong>real, revenue-generating products</strong>.
+  I enjoy <strong>solving challenging problems</strong>, <strong>learning new technologies</strong>, and delivering <strong>impactful solutions</strong> for clients and users.
 </p>
 
 ---
 
 <h2 align="left">⚙️ Skills and Tools:</h2>
 <p align="left">
-  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="100" height="100"/> 
-  </a>
-  <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/liquid.svg" alt="Liquid" width="100" height="100"/> 
-  </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="100" height="100"/> 
   </a> 
@@ -45,9 +35,21 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/> 
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="100" height="100"/> 
   </a>
+<a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="100" height="100"/>
+</a>
+<a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/liquid.svg" alt="Liquid" width="100" height="100"/>
+</a>
 </p>
 
 ---
