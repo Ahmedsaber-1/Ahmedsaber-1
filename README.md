@@ -6,7 +6,7 @@
 <h2 align="left">About Me:</h2>
 <p align="left">
 <p>
-  I’m a <strong>passionate Full-Stack Web Developer</strong> with hands-on experience building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications using <strong>Shopify</strong>, <strong>Liquid</strong>, <strong>MySQL</strong>,  and <strong>React.js</strong>. I focus on writing <strong>clean, maintainable code</strong> while following <strong>best practices</strong> in <strong>performance</strong> and <strong>security</strong>.
+  I’m a <strong>passionate Full-Stack Web Developer</strong> with hands-on experience building <strong>fast</strong>, <strong>scalable</strong>, and <strong>accessible</strong> web applications using <strong>Shopify</strong>, <strong>Liquid</strong>  and <strong>React.js</strong>. I focus on writing <strong>clean, maintainable code</strong> while following <strong>best practices</strong> in <strong>performance</strong> and <strong>security</strong>.
 </p>
 
 <p>
