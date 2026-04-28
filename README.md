@@ -5,38 +5,47 @@
 
 ## 👨‍💻 About Me
 
-I’m a **passionate Full-Stack Web Developer** with hands-on experience building **fast**, **scalable**, and **accessible** web applications using **Shopify**, **Liquid**, and **React.js**.  
-I focus on writing **clean, maintainable code** while following **best practices** in **performance** and **security**.
+I’m a **Full-Stack Web Developer** focused on building **modern, fast, and scalable web applications**.  
+I have hands-on experience working with **Shopify, Liquid, React.js, JavaScript, and TypeScript**, and I enjoy turning ideas into clean, functional, and user-friendly products.
 
-I enjoy **solving challenging problems**, **learning new technologies**, and delivering **impactful solutions** for clients and users.
+I care about writing **clean code**, following **best practices**, and building applications that are **performant, accessible, and maintainable**.
+
+I’m always learning new technologies and improving my skills through real-world projects and problem solving.
 
 ---
 
 ## ⚙️ Skills and Tools
 
-<table align="left">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></td>
-  </tr>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
 
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="40" height="40"/>
+
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="left" style="display: flex; gap: 15px; align-items: center;">
+  
   <a href="https://www.linkedin.com/in/ahmed-saber-7bb7b5293" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
   </a>
@@ -44,4 +53,5 @@ I enjoy **solving challenging problems**, **learning new technologies**, and del
   <a href="mailto:ahmedsaber.2c@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
   </a>
+
 </p>
