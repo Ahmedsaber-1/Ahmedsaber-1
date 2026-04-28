@@ -52,11 +52,14 @@
 ---
 
 <h2 align="left">🌐 Connect with Me:</h2>
-<p align="left">
+<div style="display:flex;">
+  <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-saber-7bb7b5293" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Saber LinkedIn" height="40" width="50" />
   </a>
   <a href="mailto:ahmedsaber.2c@gmail.com" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="50" />
   </a>
+</div>
+
 </p>
