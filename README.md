@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Saber</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h3 align="center">Frontend Developer | Shopify </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Web Developer** focused on building **modern, fast, and scalable web applications**.  
+I’m a **Frontend Developer** focused on building **modern, fast, and scalable web applications**.  
 I have hands-on experience working with **Shopify, Liquid, React.js, JavaScript, and TypeScript**, and I enjoy turning ideas into clean, functional, and user-friendly products.
 
 I care about writing **clean code**, following **best practices**, and building applications that are **performant, accessible, and maintainable**.
